@@ -104,6 +104,7 @@ const SYSTEM_PATHS = [
   'modes/ar/',
   'modes/da/',
   'modes/de/',
+  'modes/et/',
   'modes/de/interview/',
   'modes/fr/',
   'modes/fr/interview/',
